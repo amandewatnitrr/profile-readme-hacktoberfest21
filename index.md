@@ -23,11 +23,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="imgs/amandewatnitrr.PNG">
   </details>
-- [Akshita Prajapati](https://github.com/akshitaPrajapati)
-  <details>
-    <summary>Preview</summary>
-    <img src="imgs/akshitaPrajapati.PNG">
-  </details>
 
 ## B
 
