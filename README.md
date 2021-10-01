@@ -1,4 +1,4 @@
-# Awesome Developer Profile
+# Developer Profile
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/amandewatnitrr/profile-readme-hacktoberfest21)](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/amandewatnitrr/profile-readme-hacktoberfest21)](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pulls) [![HitCount](https://views.whatilearened.today/views/github/amandewatnitrr/creative-profile-readme.svg)](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21) [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/amandewatnitrr.github.io/creative-profile-readme.svg)](https://amandewatnitrr.github.io/profile-readme-hacktoberfest21/)
 
