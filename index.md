@@ -46,6 +46,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## L
 
+- [Lakshya Soni](https://github.com/lakshyasoni)
+  <details>
+    <summary>Preview</summary>
+    <img src="imgs/lakshya.png">
+  </details>
+
 ## M
 
 ## N
