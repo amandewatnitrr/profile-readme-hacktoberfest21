@@ -21,7 +21,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Aman Kumar Dewangan](https://github.com/amandewatnitrr)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/Amandewatnitrr.png">
+    <img src="imgs/amandewatnitrr.png">
   </details>
 
 ## B
