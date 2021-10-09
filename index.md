@@ -44,6 +44,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## K
 
+- [Kumari Astha Rani](https://github.com/astha2412)
+  <details>
+    <summary>Preview</summary>
+    <img src="imgs/astha2412.png">
+  </details>
+
 ## L
 
 - [Lakshya Soni](https://github.com/lakshyasoni)
