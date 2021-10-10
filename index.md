@@ -30,6 +30,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## D
 
+- [Drishika Chauhan](https://github.com/drishika2002)
+  <details>
+    <summary>Preview</summary>
+    <img src="imgs/drishika.png">
+  </details>
+
 ## E
 
 ## F
