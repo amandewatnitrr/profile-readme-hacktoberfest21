@@ -33,7 +33,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Drishika Chauhan](https://github.com/drishika2002)
   <details>
     <summary>Preview</summary>
-    <img src="imgs\drishika.png">
+    <img src="imgs/drishika.png">
   </details>
 
 ## E
