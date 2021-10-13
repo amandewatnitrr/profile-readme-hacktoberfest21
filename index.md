@@ -66,6 +66,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## M
 
+- [Mohammed Abdul Sohail](https://github.com/abdul-sohail24)
+  <details>
+    <summary>Preview</summary>
+    <img src="imgs/abdul-sohail24.PNG">
+  </details>
+
 ## N
 
 ## O
