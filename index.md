@@ -78,6 +78,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## S
 
+- [Smitkumar Rathod](https://github.com/RSMIT01)
+  <details>
+    <summary>Preview</summary>
+    <img src="imgs/RSMIT01.png">
+  </details>
+
 ## T
 
 ## U
