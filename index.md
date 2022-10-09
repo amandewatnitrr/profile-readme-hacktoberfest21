@@ -24,6 +24,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="imgs/amandewatnitrr.PNG">
   </details>
 
+  - [Anas Elgarhy](https://github.com/anas-elgarhy)
+  <details>
+    <summary>Preview</summary>
+    <img src="imgs/anas-elgarhy.png">
+  </details>
+
 ## B
 
 ## C
